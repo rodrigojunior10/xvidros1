@@ -9,6 +9,11 @@ body {
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,0,0.865983893557423) 35%, rgba(10,10,10,1) 100%);
 }
 
+#logo {
+  width: 5%;
+  height: 5%;
+}
+
 
 #banner {
   width: 100%;
