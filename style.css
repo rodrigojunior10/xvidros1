@@ -14,12 +14,16 @@ body {
   height: 5%;
 }
 
+.conteiner-pai{
+  
+}
+
 
 #banner {
   width: 100%;
 }
 
-
+nav li{
 h1 {
   font-size: 50px;
   color: rgb(245, 0, 0);
